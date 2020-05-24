@@ -1,0 +1,14 @@
+{
+  "name": "xlsx-to-json",
+  "version": "1.0.0",
+  "description": "xlsx-to-json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "babytutu",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
